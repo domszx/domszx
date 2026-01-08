@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://dominicbayos.great-site.net/" target="_blank">
+  <!--<a href="https://dominicbayos.great-site.net/" target="_blank">-->
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://linkedin.com/in/dominic-bayos/" target="_blank">
