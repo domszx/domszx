@@ -40,7 +40,7 @@ Hi! I'm Dominic Bayos, an Information Technology student at Camarines Sur Polyte
 
 Check out my portfolio website to see my work, projects, and professional journey. Built with modern web technologies and designed with user experience in mind.
 
-🔗 <!--[Visit my portfolio](https://dominicbayos.great-site.net/)-->
+🔗 [Visit my portfolio](https://dominicbayos.great-site.net/)
 
 ---
 
