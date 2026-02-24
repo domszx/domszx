@@ -30,7 +30,6 @@
 
 Hi! I'm Dominic Bayos, an Information Technology student at Camarines Sur Polytechnic Colleges with a passion for networking, web development, database management, and multimedia design. I combine technical skills with creative thinking to build meaningful solutions.
 
-- BS Information Technology student
 - Owner & Freelance Graphic Designer at Domszx Graphics
 - Based in Baao, Camarines Sur, Philippines
 
